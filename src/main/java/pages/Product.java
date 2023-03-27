@@ -1,11 +1,13 @@
 package pages;
 
+import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;
 import popups.LikePopup;
 import widgets.Header;
 
 import static com.codeborne.selenide.Selectors.byXpath;
 import static com.codeborne.selenide.Selenide.$;
+import static com.codeborne.selenide.Selenide.actions;
 
 public class Product {
 
@@ -18,8 +20,8 @@ public class Product {
     }
 
     public LikePopup likeButton() {
-        likeButton.click();
-        return new LikePopup();
+    likeButton.click();
+    return new LikePopup();
     }
 
 }
