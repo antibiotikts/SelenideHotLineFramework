@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c680903-48ea-468e-a9fa-3459e1601dc8" name="Changes" comment="Init">
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/Specifications.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/reqres/Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/reqres/pojo/Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/reqres/pojo/SuccessReg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/reqres/pojo/UserData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/swagger/pojo/AddPet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/swagger/pojo/Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/swagger/pojo/pet/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/swagger/pojo/pet/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/swagger/pojo/pet/Tag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/swagger/pojo/user/SuccessReg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api/swagger/pojo/user/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="5c680903-48ea-468e-a9fa-3459e1601dc8" name="Changes" comment="Add API tests">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/positiveTests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/positiveTests/BaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678883277427</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add API tests">
+      <created>1679927043464</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679927043464</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,7 +240,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="Add API tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add API tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
